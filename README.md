@@ -10,3 +10,4 @@ It’s usually:
 [Browse Good First Issues](https://github.com/search?q=label%3A%22good+first+issue%22+is%3Aopen&type=issues)
 
 Start small, learn the flow, and grow into bigger contributions 🚀
+--- This is made as part of my learning journey
