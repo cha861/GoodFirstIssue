@@ -1,4 +1,3 @@
-
 # GoodFirstIssue
 
 A *Good First Issue* is a beginner-friendly task in open-source projects.  
